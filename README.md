@@ -37,10 +37,10 @@ MLP | 0.82029 | 0.81399
 * GPU : Tesla K80 12GB
 
 ## Things to do
-* [] Ensembled model
-* [] Application of unsuperivsed learning (mainly clustering), instead of averaging features, 
+* [ ] Ensembled model
+* [ ] Application of unsuperivsed learning (mainly clustering), instead of averaging features, 
 on a feature engineering step to find representative feature for each business id
-* [] Constructing an end-to-end neural network model
+* [ ] Constructing an end-to-end neural network model
 
 <hr>
 By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
