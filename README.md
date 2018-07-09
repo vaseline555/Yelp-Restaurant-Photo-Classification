@@ -23,7 +23,7 @@ xgboost==0.72
 * 4. Predict labels
 
 ## Results
-*Best scores of each classifier*
+*Best scores of each classifier*  
 Model | Private Score | Public Score 
 ------------ | ------------- | ------------ 
 SVM | 0.80254 | 0.79200 
