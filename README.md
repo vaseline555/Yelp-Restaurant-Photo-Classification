@@ -4,11 +4,11 @@ https://www.kaggle.com/c/yelp-restaurant-photo-classification
 
 ## Requirements
 <pre>
-python==3.6.3 (Intel distribution for Python)
+python==3.6.5 (Intel distribution for Python)
 numpy==1.14.3
 pandas==0.22.0
 tqdm==4.23.4
-Keras==2.2.0
+Keras==2.1.6
 scikit-learn==0.19.1
 xgboost==0.72
 </pre>
@@ -24,8 +24,8 @@ xgboost==0.72
 
 ## Results
 *Best scores of each classifier*
-Model | Private Score | Public Score |
------------- | ------------- | ------------ |
-SVM | 0.80254 | 0.79200 |
-XGBoost | 0.81438 | 0.80144 |
-MLP | 0.82029 | 0.81399 |
+Model | Private Score | Public Score 
+------------ | ------------- | ------------ 
+SVM | 0.80254 | 0.79200 
+XGBoost | 0.81438 | 0.80144 
+MLP | 0.82029 | 0.81399 
