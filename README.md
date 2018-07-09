@@ -1,8 +1,6 @@
 # Kaggle-Yelp-Restaurant-Photo-Classification
 Past Kaggle competition : Yelp Restaurant Photo Classification  
 (https://www.kaggle.com/c/yelp-restaurant-photo-classification) 
-
-By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
   
 ## Requirements
 <pre>
@@ -16,13 +14,13 @@ xgboost==0.72
 </pre>
 
 ## Steps to solve the problem
-* 1) Extract bottleneck features using a pre-trained model (ResNet50)
-* 2) Manipulate business features
-* 3) Construct classifiers
-  * a) Support Vector Machine
-  * b) XGBoost
-  * c) Multi-Layered Perceptron
-* 4) Predict labels
+* Extract bottleneck features using a pre-trained model (ResNet50)
+* Manipulate business features
+* Construct classifiers
+  * Support Vector Machine
+  * XGBoost
+  * Multi-Layered Perceptron
+* Predict labels
 
 ## Results
 *Best scores of each classifier*  
@@ -41,3 +39,6 @@ MLP | 0.82029 | 0.81399
 ## Things to be done
 * Ensembled model
 * Application of unsuperivsed learning (mainly, clustering) in a feature engineering instead of averaging features
+
+<hr>
+By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
