@@ -28,4 +28,10 @@ Model | Private Score | Public Score
 ------------ | ------------- | ------------ 
 SVM | 0.80254 | 0.79200 
 XGBoost | 0.81438 | 0.80144 
-MLP | 0.82029 | 0.81399 
+MLP | 0.82029 | 0.81399   
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
