@@ -19,9 +19,9 @@ xgboost==0.72
 * 1. Extract bottleneck features using a pre-trained model (ResNet50)
 * 2. Manipulate business features
 * 3. Construct classifiers
-** - Support Vector Machine
-** - XGBoost
-** - Multi-Layered Perceptron
+  * - Support Vector Machine
+  * - XGBoost
+  * - Multi-Layered Perceptron
 * 4. Predict labels
 
 ## Results
