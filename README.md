@@ -40,5 +40,7 @@ MLP | 0.82029 | 0.81399
 * Ensembled model
 * Application of unsuperivsed learning (mainly, clustering) in a feature engineering instead of averaging features
 
+
+
 <hr>
 By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
