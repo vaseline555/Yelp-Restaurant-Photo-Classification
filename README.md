@@ -39,7 +39,7 @@ MLP | 0.82029 | 0.81399
 ## Things to do
 * [ ] Ensembled model
 * [ ] Application of unsuperivsed learning (mainly clustering), instead of averaging features,  
-on a feature engineering step to find representative feature for each business id
+on a feature engineering step to find a representative feature for each business id
 * [ ] Constructing an end-to-end neural network model
 
 <hr>
