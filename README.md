@@ -24,8 +24,8 @@ xgboost==0.72
 
 ## Results
 *Best scores of each classifier*
-| Model    | Private Score | Public Score | 
-|----------|:--------------|:------------:|
-| SVM      | left          | center       |
-| SVM      | left          | center       |
-| SVM      | left          | center       |
+Model | Private Score | Public Score |
+------------ | ------------- | ------------ |
+SVM | 0.80254 | 0.79200 |
+XGBoost | 0.81438 | 0.80144 |
+MLP | 0.82029 | 0.81399 |
