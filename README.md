@@ -16,13 +16,13 @@ xgboost==0.72
 </pre>
 
 ## Steps to solve the problem
-* 1. Extract bottleneck features using a pre-trained model (ResNet50)
-* 2. Manipulate business features
-* 3. Construct classifiers
-  * - Support Vector Machine
-  * - XGBoost
-  * - Multi-Layered Perceptron
-* 4. Predict labels
+1. Extract bottleneck features using a pre-trained model (ResNet50)
+2. Manipulate business features
+3. Construct classifiers
+  * Support Vector Machine
+  * XGBoost
+  * Multi-Layered Perceptron
+4. Predict labels
 
 ## Results
 *Best scores of each classifier*  
