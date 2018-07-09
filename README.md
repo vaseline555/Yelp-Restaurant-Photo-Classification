@@ -1,7 +1,9 @@
 # Kaggle-Yelp-Restaurant-Photo-Classification
 Past Kaggle competition : Yelp Restaurant Photo Classification  
-https://www.kaggle.com/c/yelp-restaurant-photo-classification  
+(https://www.kaggle.com/c/yelp-restaurant-photo-classification) 
+
 By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
+  
 ## Requirements
 <pre>
 python==3.6.5 (Intel distribution for Python)
