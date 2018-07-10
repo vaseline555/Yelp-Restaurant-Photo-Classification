@@ -46,56 +46,38 @@ on a feature engineering step to find a representative feature for each business
 <hr>
 By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
 <pre>
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmdddhhyysssoooo+++++++++++++++++oooosssyyhhddmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmddhysso++++++++++++++++++++++++++++++++++++++++++++++++++++++oosyyhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhysso++++++++++++++++++++oooosssyyyyyhhhhhhddddddddddddddddhhhhhyyyysssoooo++++osyydmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMNmdhys++++++++++++++++++oosssyyhhdddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddddhhyysooo+osydmNMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMNmhyso+++++++++++++++oossyyhhdddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddhyysoosyhmNMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMmdhso++++++++++++++oosyyhhdddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddhhyssyhdNMMMMMMMMMMMMM
-MMMMMMMmdys++++++++++++++ossyhhhddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddhyyhdmNMMMMMMMM
-MMNmhso++++++++++++oosyhhhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddhhdmNMMMM
-ms++++++++++++ossyhhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddmM
-++++++++++osyhhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdm
-+++++osyhhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-+osyhhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-hhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-dddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddddddddddddddddddddddddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddddddddddddddddddddddddddddddddddddddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmdo++oshmmmmmmmmmmmmmmmhso+oddddddddddddddddddddddddddddddddddddddddddddddddddddddddyoooohdddsoshdddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmm+    `smmmmmmmmmmmmms`   odddddddddddddddddddddddddhhhhhhhhhhhhhhhhhhhhhhhhhdddddd/    ydd/   .dddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmd:    `ymmmmmmmmmmdh`   /ddddddddddddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd/    yddo.``:ddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmd.    .dmmmmmmdddd-   -ddddhyyyyyyyhhhhhhhhhhhyysssssyhhhhhhhhhhhhhyssssyyhhhhhhd/    yhdhyyyhdddhhddddddhyyyyhdmmmmmmmmmmmdhhyyyhdmmmmmmmmmmmmm
-mmmmmmmy`    :dmmdddddd/   `hds/-.```````.:ohhhhhs/-.``` ```.:oyhhhhhyo:.```````./shhhd/    yhd/....hdd-..:ss:.``````./ymmmmmmho:.``````.-+ymmmmmmmmmm
-mmmmmmmms     oddddddds   `sh-   `/syys/`   -yhho`   -osss/.   -yhhy+`   ./++/-`   -yhd/    yhd:    hhd.   ` .:+o+/.   `sdmmd/`   -/++/-   `/dmmmmmmmm
-mmmmmmmmm/    `ydddddh`   +d+....yhhhhhd+    /hd`   `yhhhhhh-...+hh:    +yhhhhdy`   .yd/    yhd:    hhd.    /hdddddh.   `ddd-   `sdmmmmds`   -dmmmmmmm
-mmmmmmmmmd-    .hdddd-   :hdhhhhyyyyssss:    :hd:    .:+oosyyyyyyhs    -oooooooy/    :d/    shd:    hhd.   `hddddddd:    hd+    /yyyyyyyy-    smmmmmmm
-mmmmmmmmmdh.    :ddd/   .hhhhs+:..```````    :hhh+.       ``.:+syh/                  .h/    shd:    hhd.   .hhhddddd/    hd.                  /mmmmmmm
-mmmmmmmddddy`    +do   `yhhy-`   -/osssy+    :yyhhhyo/:-.``    `+h/    :oooooooooooo++h/    syd:    yhd.   .hhhhhhdd/    hd.    /oooooooooooooymmmmmmm
-mmmmmdddddddo    `o`   ohhd:    /hhhhhhh+    :yo++++yhhhyyyo`   `hs    .yyyyyyyyysssssh/    syd:    yhd.   .hhhhhhhd/    hd+    /ddmmmmmmdhhhhdmmmmmmm
-mmmmddddddddd/        +hhhd:    :yhhyyyo`    -ho    -syyyyyh.   `yd/    -ossysso-```.oh/    syd:    yhd.   .hhhhhhhd/    hdd:    /yddddhs.```-ddhhdmmm
-mmdddddddddddd-      :hhhhhh-    .:::-. .`   `ydo.   `-:::-.   .+syds-`   `...`   `-oyh/    syd:    yyd.   .hhhhhhhd/    hdddo.   `.---.   .+dhy++yhmm
-mdddddddddddddh::::::yhhhhhhhs/-.....-/ohy/--.oyhhs/-.......-/+sssssyhs+:-.....-/+oyyyho:::-syh+:::-yyd/::::hhhhhhhdo:::-hddddds+:......:+shmmdyssydmm
-dddddddddddddhdddhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyssssssssssyyyyyyyyyssssssyyyyyyyyyyyyyyyyhhhhhyhhhhhhhhhhhdhhhddddddddddddddmmmmmmmddmmmm
-ddddddddddddhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhdddddddddddddmmmmmmmmmmmm
-ddddddddddhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyysssssssssssssssssssssssssssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhdddddddddddddmmmmmmmmmmm
-dddddddddhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhdddddddddddddmmmmmmmmmm
-ddddddddhhhhhhhhhhhhhyyyyyyyyyyyyyyyysssssssssssssssssssssssoooooooooooooooossssssssssssssssssssssssyyyyyyyyyyyyyyyhhhhhhhhhhhhhhddddddddddddmmmmmmmmm
-dddddddhhhhhhhhhhhhhyyyyyyyyyyyyyyysssssssssssssssssssoooooooooooooooooooooooooooossssssssssssssssssssyyyyyyyyyyyyyyyhhhhhhhhhhhhhddddddddddddmmmmmmmm
-ddddddhhhhhhhhhhhhyyyyyyyyyyyyyyysssssssssssssssssoooooooooooooooooooooooooooooooooooossssssssssssssssssyyyyyyyyyyyyyyhhhhhhhhhhhhhddddddddddddmmmdddd
-dddddhhhhhhhhhhhhyyyyyyyyyyyyyyssssssssssssssssoooooooooooooooooooooooooooooooooooooooooossssssssssssssssyyyyyyyyyyyyyyhhhhhhhhhhhhhddddddddddddddddhy
-ddddhhhhhhhhhhhhyyyyyyyyyyyyyysssssssssssssssooooooooooooooooooooooooooooooooooooooooooooooosssssssssssssssyyyyyyyyyyyyyhhhhhhhhhhhhddddddddddddhhyo++
-dddhhhhhhhhhhhhyyyyyyyyyyyyyyssssssssssssssooooooooooooooooooooooooooooooooooooooooooooooooooossssssssssssssyyyyyyyyyyyyyhhhhhhhhhhhhddddddhhyso++++++
-ddhhhhhhhhhhhhyyyyyyyyyyyyyssssssssssssssooooooooooooooooooo+++++++++++++++++oooooooooooooooooossssssssssssssyyyyyyyyyyyyyhhhhhhhhhddddhhyso++++++++++
-Nmdhhhhhhhhhhhyyyyyyyyyyyysssssssssssssooooooooooooooooo+++++++++++++++++++++++++oooooooooooooooosssssssssssssyyyyyyyyyyyyhhhhhhdhhhyso++++++++++++oym
-MMMMNmdhyyhhhhyyyyyyyyyyysssssssssssssooooooooooooooo+++++++++++++++++++++++++++++++oooooooooooooosssssssssssssyyyyyyyyhhhhdhhhyso+++++++++++++oydmMMM
-MMMMMMMMMmdhysyyyyyyyyyyyssssssssssssoooooooooooooo+++++++++++++++++++++++++++++++++++oooooooooooooossssssssssyyyhhhhhhhyysoo+++++++++++++oshdNMMMMMMM
-MMMMMMMMMMMMMNmhyssssyyyyyssssssssssooooooooooooo+++++++++++++++++++++++++++++++++++++++ooooooooooosssssyyyhhhhhhhysso+++++++++++++++oyhdNMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMmdhsoosssyyyyyssssooooooooooo++++++++++++++++////////++++++++++++++++oooooossyyyhhhhhhhyssoo++++++++++++++++oshdmNMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMNmdhys++oosssyyyyyyysssoooo++++++++++++//////////+++++oooosssyyyyhhhhhhyyyssoo++++++++++++++++++osyhdNMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhyso+++++oooosssyyyyyyyyyyyyyyyhhhhhhhhhhhhhyyyyyssssoooo+++++++++++++++++++++osyhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmdhyyso+++++++++++++++++++++++++++++++++++++++++++++++++++++oosyyhdmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmmddhhyyysssooooo+++++++++++ooooosssyyyhhdddmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(//////////////////////////////@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@(/////////////////////(%%%%%%%%%%%%%%%%%%(//////////(@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@///////////////(%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%%%/////@@@@@@@@@@@@@@@@
+@@@@@@@@@@/////////////%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%//&@@@@@@@@@@
+@@@@&///////////(%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%/@@@@@@
+///////////%%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&(@
+//////%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+//%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&   &&&&&&&&&&&   &&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   %%#  &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&   /&&&&&&&&   &%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&   %&   %%%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&    &&&&&&&   #%%%%,.(%%%%%%%%%/  (%%%%%%%%%%/.(%%%%%&   %%%%%%%%%%%%&(.#&&&&&&&&&&*.%&&&&&&&&&
+&&&&&    &&&&&&   %    &&.   %%%    &&    ###     .    %%&   %&   %%      /     &&&          &&&&&&
+&&&&&&    &&%%   %   %%%%%%   %#   ####&&%##   #####&   #&   %&   %%    %%%%&   &&   &&&&&&   &&&&&
+&&&&&&&   .%%   %%%%          #&        .##&             &   #&   %%   %%%%%&   %&            .&&&&
+&&&&&&&&   %   %%%    %####   ####&&&*     &   ##########&   #&   %%   %%%%%&   %&   &&&&&&&&&&&&&&
+&&&&&&%&      (%%&   #####    &   .####&   %    #####   #&   #&   ##   %%%%%&   %&    &&&&&   &&&&&
+&&&&%%%%&     %%%&&       %   #&,         #((&         ##&   #&   ##   #%%%%&   %%&&        *&& &
+&&&%%%%%%%%%%%%%##################(###(((((((((((#((((((##################%%%%%%%%%%%%%&&&&&&&&&&&&
+&%%%%%%%%%%%%%################((((((((((((((((((((((((((((((################%%%%%%%%%%%%&&&&&&&&&&&
+%%%%%%%%%%%%%##############((((((((((((((((((((((((((((((((((((##############%%%%%%%%%%%%%&&&&&&&&&
+%%%%%%%%%%%#############(((((((((((((((((((((((((((((((((((((((((##############%%%%%%%%%%%%&&&&&&&&
+%%%%%%%%%%############(((((((((((((((((((((((((((((((((((((((((((((#############%%%%%%%%%%%%&&&&&&%
+%%%%%%%%%############((((((((((((((((////////////////((((((((((((((((############%%%%%%%%%%%&&%%%%%
+%%%%%%%%###########((((((((((((((///////////////////////((((((((((((((############%%%%%%%%%%%%#////
+%%%%%%%###########(((((((((((((////////////////////////////(((((((((((((###########%%%%%%%/////////
+@@@@/%###########((((((((((((////////////////////////////////((((((((((((######%%%%%%///////////@@@
+@@@@@@@@*//%####((((((((((((//////////////////////////////////((((((((((#%%%%%%////////////@@@@@@@@
+@@@@@@@@@@@@@@////%%#((((((////////////************////////////(%%%%%%%///////////////@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@///////(%%%%%%%%(/********/(%%%%%%%%%%%%#//////////////////@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/////////////////////////////////////////@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
