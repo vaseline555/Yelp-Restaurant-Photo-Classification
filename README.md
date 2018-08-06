@@ -38,7 +38,7 @@ XGBoost | 0.81438 | 0.80144
 * GPU : Tesla K80 12GB
 
 ## Things to do
-* [ ] Ensembled model
+* [ ] Model pipelining
 * [ ] Application of unsuperivsed learning (mainly clustering), instead of averaging features,  
 on a feature engineering step to find a representative feature for each business id
 * [ ] Constructing an end-to-end neural network model
