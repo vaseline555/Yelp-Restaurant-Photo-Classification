@@ -38,4 +38,4 @@ XGBoost | 0.81438 | 0.80144
 * GPU: Tesla K80 12GB
 
 <hr>
-By. Seokju Hahn / https://www.kaggle.com/vaseline555 / seokjuhahn@unist.ac.kr
+By. Seok-Ju Hahn / https://www.kaggle.com/vaseline555 / seokjuhahn@unist.ac.kr
