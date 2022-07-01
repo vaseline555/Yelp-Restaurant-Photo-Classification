@@ -1,5 +1,5 @@
 # Kaggle-Yelp-Restaurant-Photo-Classification
-Past Kaggle competition : Yelp Restaurant Photo Classification  
+Past Kaggle competition: Yelp Restaurant Photo Classification  
 (https://www.kaggle.com/c/yelp-restaurant-photo-classification) 
 
 ## Requirements
@@ -33,15 +33,9 @@ XGBoost | 0.81438 | 0.80144
  
 
 ## Development environment
-* CPU : Intel Xeon 2 Cores
-* RAM : 8GB
-* GPU : Tesla K80 12GB
-
-## Things to do
-* [ ] Ensembled learning
-* [ ] Application of unsuperivsed learning (mainly clustering), instead of averaging features,  
-on a feature engineering step to find a representative feature for each business id
-* [ ] Constructing an end-to-end neural network model
+* CPU: Intel Xeon 2 Cores
+* RAM: 8GB
+* GPU: Tesla K80 12GB
 
 <hr>
-By. Seokju Hahn / https://www.kaggle.com/vaseline555 / sjhahn11512@naver.com
+By. Seokju Hahn / https://www.kaggle.com/vaseline555 / seokjuhahn@unist.ac.kr
